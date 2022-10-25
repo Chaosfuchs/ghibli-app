@@ -1,1 +1,1 @@
-# Quiz App React
+# Ghibli App
